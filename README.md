@@ -1,33 +1,27 @@
-# Website
+# Welcome to KidScript! 🚀
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+KidScript is a fun and easy way for kids to learn coding! Let's explore the exciting world of coding together!
 
-### Installation
+## What is KidScript? 🤖
 
-```
-$ yarn
-```
+KidScript is like magic words that help computers understand what you want them to do. With KidScript, you can create your own games, stories, and amazing projects!
 
-### Local Development
+## Getting Started 🎉
 
-```
-$ yarn start
-```
+- Tutorial
+- Blogs
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+ 
+## Have Questions? 🤔
 
-### Build
+Coding can be a bit puzzling sometimes, but that's okay! If you have questions or get stuck, don't worry. Ask your parents, teachers, or anyone you know who likes coding. We're here to help you!
 
-```
-$ yarn build
-```
+## Let's Create Together! 🌟
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Get ready to create, play, and have a blast with KidScript! It's time to turn your ideas into reality and show the world what you can do!
 
-### Deployment
+Happy coding, future coder! 🎈
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+---
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**Note for Grown-Ups:** KidScript is designed to introduce kids to the fun world of coding. Feel free to explore the code samples, projects, and resources here to support your child's learning journey.
