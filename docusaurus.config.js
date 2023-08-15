@@ -10,10 +10,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'KidScript', // Usually your GitHub org/user name.
-  projectName: 'KidScript', // Usually your repo name.
-
+  favicon: 'img/KidScriptFav.png',
+  organizationName: 'KidScript', 
+  projectName: 'KidScript', 
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -21,12 +20,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
         },
@@ -41,10 +38,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'KidScript',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/KidScriptLogo.png',
+          href: '/',
+          target: '_self',       
         },
         items: [
           {
@@ -55,7 +54,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/mayurpatil77/KidScript/',
             label: 'GitHub',
             position: 'right',
           },
@@ -71,22 +70,26 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Blogs',
+                to: '/blog',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Follow Us',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: '#',
+              },
+              {
+                label: 'Instagram',
+                href: '#',
+              },
+              {
+                label: 'YouTube',
+                href: '#',
               },
             ],
           },
@@ -99,12 +102,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/mayurpatil77/KidScript',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KidScript.`,
       },
       prism: {
         theme: lightCodeTheme,
