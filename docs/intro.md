@@ -1,7 +1,6 @@
 --- 
 sidebar_position: 1
 ---
-
 ---
 🚀 KidScript: Making Coding Kid-Friendly and Fun
 ---
