@@ -5,6 +5,10 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+
 :root {
   --ifm-color-primary: #2681d7;
   --ifm-color-primary-dark: rgb(33, 175, 144);
@@ -14,6 +18,7 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  font-family: 'Kanit', sans-serif;;
 }
 
 .docusaurus-highlight-code-line {
@@ -26,3 +31,44 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+p {
+  font-size: 20px; 
+}
+
+h1 {
+  font-size: 32px; 
+  font-family: 'Kanit', sans-serif;;
+
+}
+
+h1, h2,h3,h4 {
+  font-weight: 600;
+  font-size: 26px;
+  font-family: 'Kanit', sans-serif;
+  background: #6542ed;
+  color: #fff;
+  padding: 5px 10px ;
+  line-height: 1.7em;
+  box-shadow: 0 2px 10px 0 #cac9c9;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+  border-left: 20px solid #000;
+}
+
+h6{
+  font-weight: 600;
+  font-size: 20px;
+  font-family: 'Kanit', sans-serif;
+  background: #36d4ad;
+  color: #fff;
+  padding: 5px 10px ;
+  line-height: 1.7em;
+  box-shadow: 0 2px 10px 0 #cac9c9;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+  border-left: 20px solid #000;
+}
+
