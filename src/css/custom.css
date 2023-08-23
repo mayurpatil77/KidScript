@@ -38,10 +38,12 @@ p {
 
 h1 {
   font-size: 32px; 
-  font-family: 'Kanit', sans-serif;;
-
+  font-family: 'Kanit', sans-serif;
 }
 
+a{
+  color:black
+}
 h2,h3,h4 {
   font-weight: 600;
   font-size: 26px;
