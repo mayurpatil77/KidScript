@@ -14,7 +14,6 @@ Let's say you have a robot friend who loves candies. You can create a variable c
 
 ```js title="Numbers"
 candies = 5;
-}
 ```
 
 ### Using Variables
