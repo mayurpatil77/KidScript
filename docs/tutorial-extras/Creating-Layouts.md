@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-## Chapter 4: Creating Layouts
+# Creating Layouts
 
 📐 Get ready to design and arrange elements on your web pages like a true architect! Creating layouts is like arranging furniture in your digital room. Let's dive into the world of layouts and learn how to organize your web content in style.
 
@@ -29,6 +29,7 @@ Layouts are like blueprints for your web pages. They help you decide where to pu
 ### Your Layout Masterpiece
 
 Now it's time to put your layout skills to the test. Imagine you're creating a webpage about your favorite hobby. Arrange text, pictures, and maybe even videos using HTML and CSS. Your webpage will be a digital work of art!
+
 
 🚀 Get ready to become a layout artist and arrange web elements like a pro. With your creative skills, your web pages will look fantastic and organized!
 
