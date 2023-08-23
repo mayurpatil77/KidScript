@@ -2,14 +2,16 @@
 
 KidScript is a fun and easy way for kids to learn coding! Let's explore the exciting world of coding together!
 
+[ 🚀 Read Documentation ](https://kidscript.netlify.app/)
+
 ## What is KidScript? 🤖
 
 KidScript is like magic words that help computers understand what you want them to do. With KidScript, you can create your own games, stories, and amazing projects!
 
 ## Getting Started 🎉
 
-- Tutorial
-- Blogs
+- [ Tutorial ](https://kidscript.netlify.app/docs/intro)
+- [Blogs](https://kidscript.netlify.app/blog)
 
  
 ## Have Questions? 🤔
@@ -24,4 +26,4 @@ Happy coding, future coder! 🎈
 
 ---
 
-**Note for Grown-Ups:** KidScript is designed to introduce kids to the fun world of coding. Feel free to explore the code samples, projects, and resources here to support your child's learning journey.
+**Note for Grown-Ups:** KidScript is designed to introduce kids to the fun world of coding. 
