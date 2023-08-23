@@ -10,8 +10,8 @@ KidScript is like magic words that help computers understand what you want them 
 
 ## Getting Started 🎉
 
-- Tutorial
-- Blogs
+- [ Tutorial ](https://kidscript.netlify.app/docs/intro)
+- [Blogs](https://kidscript.netlify.app/blog)
 
  
 ## Have Questions? 🤔
@@ -26,4 +26,4 @@ Happy coding, future coder! 🎈
 
 ---
 
-**Note for Grown-Ups:** KidScript is designed to introduce kids to the fun world of coding. Feel free to explore the code samples, projects, and resources here to support your child's learning journey.
+**Note for Grown-Ups:** KidScript is designed to introduce kids to the fun world of coding. 
