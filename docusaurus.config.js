@@ -20,12 +20,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/mayurpatil77/KidScript/tree/main',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/mayurpatil77/KidScript/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
